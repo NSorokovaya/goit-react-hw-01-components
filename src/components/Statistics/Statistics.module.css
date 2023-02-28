@@ -1,0 +1,27 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+}
+
+.statisticsContsiner {
+  margin: 30px;
+  background-color: #fff;
+  display: inline-block;
+}
+.title {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.statList {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  color: #fff;
+  text-align: center;
+}
